@@ -1,6 +1,6 @@
 # FileGenius-Showcase
 FileGenius is a Full-Stack Windows application I built to instantly declutter messy directories (like Downloads and Desktop) into organized, categorized folders with a single click.
-```markdown
+
 # 🧠 FileGenius - Smart File Organizer
 
 ![FileGenius](https://filegenius.michaelmondala.site) *(Link to live site)*
@@ -25,4 +25,3 @@ It features a custom-built GUI, a cloud-hosted Flask REST API, and global paymen
 * 👯 **Hashing Algorithm:** Built-in Duplicate File Finder using MD5 hashing to isolate clones.
 * ☁️ **Cloud Auth:** Real-time license verification checking Free/Pro/Elite tiers.
 * 💳 **Automated Webhooks:** Instant account upgrades via Gumroad API integration.
-```

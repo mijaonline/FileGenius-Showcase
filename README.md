@@ -25,3 +25,5 @@ It features a custom-built GUI, a cloud-hosted Flask REST API, and global paymen
 * 👯 **Hashing Algorithm:** Built-in Duplicate File Finder using MD5 hashing to isolate clones.
 * ☁️ **Cloud Auth:** Real-time license verification checking Free/Pro/Elite tiers.
 * 💳 **Automated Webhooks:** Instant account upgrades via Gumroad API integration.
+
+![FileGenius UI](FileGeniusUI.png)
